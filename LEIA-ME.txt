@@ -1,0 +1,17 @@
+Radar Viral — site estático para GitHub Pages
+
+Conteúdo:
+- index.html: página inicial e descrição do protótipo
+- terms.html: Termos de Serviço
+- privacy.html: Política de Privacidade
+- support.html: contato e suporte
+- style.css: estilos do site
+
+Publicação sugerida:
+1. Envie todos estes arquivos para a raiz do repositório público radar-viral-site.
+2. No GitHub, abra Settings > Pages e configure a publicação pela branch main, pasta /(root).
+3. Aguarde o GitHub Pages disponibilizar a URL pública.
+4. No portal do TikTok, use Verificar propriedades > URL prefix. Baixe o arquivo de assinatura que o TikTok fornecer e envie-o à raiz do repositório sem renomear. O nome e o caminho devem ser exatamente os indicados pelo portal.
+5. Depois que o arquivo estiver publicado e a URL de verificação responder, volte ao portal e conclua a verificação. Só então cadastre as URLs finais de Termos, Privacidade e Web/Desktop.
+
+Este site descreve corretamente o estado atual: o Radar Viral é um protótipo local, e vários produtos TikTok ainda estão planejados. Não inclui credenciais, tokens, dados de usuários nem arquivos de verificação do TikTok.
